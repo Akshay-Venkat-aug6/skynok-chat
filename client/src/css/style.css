@@ -1,0 +1,22 @@
+.cre-img{
+  width: 500px;
+  margin-top: 70px
+};
+
+.white{
+  color: white;
+}
+.cre-container{
+  margin: 20px;
+  margin-left: 50px;
+  width: 500px
+}
+
+.text-box{
+  width: 350px;
+  border: none;
+  color: white;
+  background-color: transparent;
+  border-bottom: 1px solid white;
+ outline: none
+}
